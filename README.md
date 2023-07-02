@@ -6,7 +6,7 @@
 <h1>Título e Imagem de capa:<h1>
   <h4>
 TRABALHO_DO_CURSO_2022
- - Repositório:  https://github.com/Irae-Cesar-Brandao/trabalhodocurso<br>
+ - Repositório / acesso ao link do site:(https://irae-cesar-brandao.github.io/pousada_project)<br>
  - Aquivos: Repositório GitHub. <br>
  - Projeto realizado sem fins lucrativos - Confecção para utilização em trabalho realizao no curso de PROGRAMADOR WEB , realizado no IFTO EAD, tendo como professor Joaquim Martins Scavone (estudos). <br>
  
@@ -31,7 +31,7 @@ G) Criação de respositório do GIT HUB e envio/compartilhamento com o Professo
   <h4>  - O presente projeto demonstra a usabilidade de linguagens de programação e espelha um SITE DE NAVEGAÇÃO de uma POUSADA/HOTEL figurativa.  <h4>
     
  <h1>Descrição do Projeto:<h1><h4>
- - Criado o código conforme disponibilizado no repositório, sendo criada uma única página index.html de acesso com cinco páginas internas(em um mesmo código HTML), cujo cabeçalho é uníco, havendo alterações  no corpo da página (body), aonde nos demais códigoss possuem modificações conforme cada assunto a que as mesmas abordam: index, pousada, comochegar, reservas e sustentaibilidade, todas na extensão html (pagina da web), tendo como repositório principal "https://github.com/Irae-Cesar-Brandao/trabalhodocurso" e a subpastas "arquivos" armazenada  no mesmo diretório que os arquivos html, contendo imagens, códigos CSS, icones e etc.
+ - Criado o código conforme disponibilizado no repositório, sendo criada uma única página index.html de acesso com cinco páginas internas(em um mesmo código HTML), cujo cabeçalho é uníco, havendo alterações  no corpo da página (body), aonde nos demais códigoss possuem modificações conforme cada assunto a que as mesmas abordam: index, pousada, comochegar, reservas e sustentaibilidade, todas na extensão html (pagina da web), tendo como repositório principal "(https://irae-cesar-brandao.github.io/pousada_project)" e a subpastas "arquivos" armazenada  no mesmo diretório que os arquivos html, contendo imagens, códigos CSS, icones e etc.
  - Projeto realizado como tarefas em caráter estundantil, para aplicação de aprendizado relacionado a linguagens de programação como HTML, CSS, INKSCAPE, VSCODE, elaboração de sites e códigos e aplicabilidade e designer. Cursto realizado em realização em 2022 pelo Instituto Federal de Tocantins, ministradas pelo Prof. Joaquim M. Scavone, com período de curso estimado até final de 2022.O projeto é sem FINS COMERCIAIS, ou seja, somente representação de um siste de Pousada FICTÍCIO para fins de aprimoramento, demonstração de afinidade do aluno com elaboração e manipulação de códigos de linguagens, NÃO HAVENDO FINS COMERCIAS ou LUCRATIVOS em sua elaboração. Qualquer similaridade será mera coincidência, pois foi elaborado, como já dito, com imagens, localizações imagens e localizações totalmente ficticias. <h4>
 
  <h1>Status do Projeto: <h1>
@@ -48,7 +48,7 @@ G) Criação de respositório do GIT HUB e envio/compartilhamento com o Professo
   <h4> - Aluno IRAÊ CÉSAR BRANDÃO - Gestor de TI e Desenvolvedor WEB durante o  CURSO DE PROGRAMADOR WEB 2022.<h4>
 
  <h1> Desenvolvedores do Projeto: <h1>
-    <h4> - IRAÊ CÉSAR BRANDÃO - Aluno do Curso PROGRAMADOR WEB 2022 (Adm. https://github.com Irae-Cesar-Brandao) <h4>
+    <h4> - IRAÊ CÉSAR BRANDÃO - Aluno do Curso PROGRAMADOR WEB 2022 <h4>
 
  <h1> Licença:<h1>
         <h4>- Tratando-se de projeto elaborado em AULAS de Programação, não foram obtidas licenças para a elaboração do site pois foram utilizados recursos FREE de obtenção de material para uso no site e toda elaboração sendo ficticia sem nehum vínculo comercial ou lucrativo para sua visualização e apreciação.<h4>
@@ -65,7 +65,7 @@ G) Criação de respositório do GIT HUB e envio/compartilhamento com o Professo
 <h1>Title and cover image:<h1>
    <h4>
 COURSE_WORK_2022
-  - Repository: https://github.com/Irae-Cesar-Brandao/trabalhodocurso<br>
+  - Repository: https://irae-cesar-brandao.github.io/pousada_project<br>
   - Files: GitHub repository. <br>
   - Non-profit project - Production for use in work carried out in the WEB PROGRAMMER course, held at IFTO EAD, with Joaquim Martins Scavone as professor (studies). <br>
   
@@ -90,7 +90,7 @@ G) Creation of GIT HUB repository and sending/sharing with the Course Professor
    <h4> - This project demonstrates the usability of programming languages and mirrors a NAVIGATION SITE of a figurative INN/HOTEL. <h4>
     
   <h1>Project Description:<h1><h4>
-  - Created the code as available in the repository, creating a single index.html access page with five internal pages (in the same HTML code), whose header is unique, with changes in the body of the page (body), where in the other codes have modifications according to each subject they address: index, inn, how to arrive, reservations and sustainability, all in the html extension (web page), having as main repository "https://github.com/Irae-Cesar-Brandao/trabalhodocurso" and subfolders "archives" stored in the same directory as the html files, containing images, CSS codes, icons, etc.
+  - Created the code as available in the repository, creating a single index.html access page with five internal pages (in the same HTML code), whose header is unique, with changes in the body of the page (body), where in the other codes have modifications according to each subject they address: index, inn, how to arrive, reservations and sustainability, all in the html extension (web page), having as main repository "https://irae-cesar-brandao.github.io/pousada_project" and subfolders "archives" stored in the same directory as the html files, containing images, CSS codes, icons, etc.
   - Project carried out as student tasks, for the application of learning related to programming languages such as HTML, CSS, INKSCAPE, VSCODE, development of websites and codes and applicability and designer. Course carried out in 2022 by the Federal Institute of Tocantins, taught by Prof. Joaquim M. Scavone, with an estimated course period until the end of 2022. The project has NO COMMERCIAL PURPOSES, that is, only representation of a FICTICIOUS Pousada system for the purpose of improvement, demonstration of the student's affinity with the elaboration and manipulation of codes of languages, WITH NO COMMERCIAL OR PROFITABLE PURPOSES in its elaboration. Any similarity will be mere coincidence, as it was prepared, as already said, with completely fictitious images, locations and locations. <h4>
 
   <h1>Project Status: <h1>
@@ -107,7 +107,7 @@ G) Creation of GIT HUB repository and sending/sharing with the Course Professor
    <h4> - Student IRAÊ CÉSAR BRANDÃO - IT Manager and WEB Developer during the 2022 WEB PROGRAMMER COURSE.<h4>
 
   <h1> Project Developers: <h1>
-     <h4> - IRAÊ CÉSAR BRANDÃO - Student of the 2022 WEB PROGRAMMER Course (Adm. https://github.com Irae-Cesar-Brandao) <h4>
+     <h4> - IRAÊ CÉSAR BRANDÃO - Student of the 2022 WEB PROGRAMMER Course (https://irae-cesar-brandao.github.io/pousada_project) <h4>
 
   <h1> License:<h1>
          <h4>- In the case of a project developed in Programming CLASSES, licenses were not obtained for the creation of the site because
